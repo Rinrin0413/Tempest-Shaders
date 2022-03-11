@@ -231,6 +231,6 @@
 
 <br />
 
-&emsp;[![CC-BY-4.0](https://img.shields.io/github/license/Rinrin0413/Tempest-Shaders?color=67BAB3&style=for-the-badge)](./LICENSE)
+&emsp;[![CC-BY-4.0](https://img.shields.io/github/license/Rinrin0413/Tempest_Shaders?color=67BAB3&style=for-the-badge)](./LICENSE)
 
 ---
