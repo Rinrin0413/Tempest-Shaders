@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "This shaders is licensed under the §bCC-BY-4.0",
+        "name": "[v1.0.0]§5Tempest §dShaders§r",
+        "uuid": "623d1a4c-1ec1-2aac-00f3-b486c9f98c8f",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "This shaders is licensed under the §bCC-BY-4.0",
+            "type": "resources",
+            "uuid": "29a4ff02-1f9f-6224-1261-bad59cdb3bda",
+            "version": [1, 0, 0]
+        }
+    ]
+}
