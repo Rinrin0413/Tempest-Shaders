@@ -57,7 +57,7 @@ struct SunMoonColor {
 };
 // ▲ Struct
 
-// ▼ Funcitons
+// ▼ Functions
 
 float3 lighting(float3 color, float light) {
 	if (light < 0.937) { 

@@ -29,7 +29,7 @@
 - Beautiful lighting
 - Fancy sky & clouds
 - Colorful stars
-- Realistic reflections with normal maping
+- Realistic reflections with normal mapping
 - Waving plants
  
 <details>

@@ -73,7 +73,7 @@ float3 get_color(Color col, float isDay, float isTwilight, float isRain) {
     return result;
 }
 
-// ▲ Funcitons
+// ▲ Functions
 
 ROOT_SIGNATURE
 void main(in PS_Input psi, out PS_Output PSOutput)

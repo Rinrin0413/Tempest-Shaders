@@ -112,7 +112,7 @@ float4 moon_cal(float size, float d, float2 uv, Color col, float2 map_uv) {
     return result;
 }
 
-// ▲ Funcitons
+// ▲ Functions
 
 ROOT_SIGNATURE
 void main(in PS_Input psi, out PS_Output PSOutput)
