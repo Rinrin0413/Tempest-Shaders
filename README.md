@@ -197,25 +197,6 @@ Render Dragon is not supported.
 ![photo13](assets/pictures/photo13.png)
 ![photo15](assets/pictures/photo15.png)
 
-<!--
-![photo0](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo0.png)
-![photo1](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo1.png)
-![photo2](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo2.png)
-![photo14](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo14.png)
-![photo3](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo3.png)
-![photo4](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo4.png)
-![photo5](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo5.png)
-![photo6](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo6.png)
-![photo7](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo7.png)
-![photo8](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo8.png)
-![photo12](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo12.png)
-![photo9](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo9.png)
-![photo10](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo10.png)
-![photo11](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo11.png)
-![photo13](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo13.png)
-![photo15](https://raw.githubusercontent.com/Rinrin0413/Tempest_Shaders/master/assets/pictures/photo15.png)
--->
-
 </div>
 </details>
 
