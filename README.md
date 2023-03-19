@@ -1,8 +1,11 @@
-# **Tempest Shaders** ![Latest release version](https://img.shields.io/github/v/release/Rinrin0413/Tempest_Shaders?color=000&label=Latest%20release&style=flat-square)
+# **Tempest Shaders for BE** ![Latest release version](https://img.shields.io/github/v/release/Rinrin0413/Tempest_Shaders?color=000&label=Latest%20release&style=flat-square)
 
 Tempest Shaders is a shader pack for Minecraft.  
 It is made from Rinrin's mad sensibility.  
-Recommended for you, who want to experience a different scenery than usual <3 
+Recommended for you, who want to experience a different scenery than usual <3
+
+<!-- Looking for the Java Edition version?
+See [@Rinrin0413/Tempest-Shaders_JE](https://github.com/Rinrin0413/Tempest-Shaders_JE) -->
 
 ---
 
