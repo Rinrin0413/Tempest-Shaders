@@ -1,29 +1,29 @@
-
----
-
 # **Tempest Shaders** ![Latest release version](https://img.shields.io/github/v/release/Rinrin0413/Tempest_Shaders?color=000&label=Latest%20release&style=flat-square)
 
-    Tempest Shaders were made from Rinrin's mad sensibility.
-    Recommended for you, who want to experience a different scenery than usual:D
+Tempest Shaders is a shader pack for Minecraft.  
+It is made from Rinrin's mad sensibility.  
+Recommended for you, who want to experience a different scenery than usual <3 
 
 ---
 
-> ### Download 
+## Download 
 
-&emsp;See [releases](https://github.com/Rinrin0413/Tempest_Shaders/releases)
+See [releases](https://github.com/Rinrin0413/Tempest_Shaders/releases)
 
-&emsp;![downloads](https://img.shields.io/github/downloads/Rinrin0413/Tempest_Shaders/total?style=plastic)
-
----
-
-> ### Supported platforms & versions
-
-&emsp;Platform: `Minecraft for Windows`<br>
-&emsp;Version: `v1.16.100 or earlier` or `x86(32bit) before 1.18.12 or earlier`
+![downloads](https://img.shields.io/github/downloads/Rinrin0413/Tempest_Shaders/total?style=plastic)
 
 ---
 
-> ### Major features
+## Requirements
+
+Platform: `Minecraft for Windows`<br>
+Version: `v1.16.100 or earlier` or `x86(32bit) before 1.18.12 or earlier`
+
+Render Dragon is not supported.
+
+---
+
+## Major features
 
 - Deep shadow
 - Beautiful lighting
@@ -33,7 +33,7 @@
 - Waving plants
  
 <details>
-<summary>Reflective blocks list</summary>
+<summary>reflective blocks list</summary>
 <div>
 
 - Chiseled Deepslate
@@ -174,10 +174,10 @@
 
 ---
 
-> ### Pictures
+## Pictures
 
 <details>
-<summary>photos</summary>
+<summary>click to expand</summary>
 <div>
 
 ![photo0](pictures/photo0.png)
