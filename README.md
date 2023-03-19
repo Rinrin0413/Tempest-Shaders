@@ -180,22 +180,22 @@ Render Dragon is not supported.
 <summary>click to expand</summary>
 <div>
 
-![photo0](assets/pictures/photo0.png)
-![photo1](assets/pictures/photo1.png)
-![photo2](assets/pictures/photo2.png)
-![photo14](assets/pictures/photo14.png)
-![photo3](assets/pictures/photo3.png)
-![photo4](assets/pictures/photo4.png)
-![photo5](assets/pictures/photo5.png)
-![photo6](assets/pictures/photo6.png)
-![photo7](assets/pictures/photo7.png)
-![photo8](assets/pictures/photo8.png)
-![photo12](assets/pictures/photo12.png)
-![photo9](assets/pictures/photo9.png)
-![photo10](assets/pictures/photo10.png)
-![photo11](assets/pictures/photo11.png)
-![photo13](assets/pictures/photo13.png)
-![photo15](assets/pictures/photo15.png)
+![photo0](assets/images/pictures/photo0.png)
+![photo1](assets/images/pictures/photo1.png)
+![photo2](assets/images/pictures/photo2.png)
+![photo14](assets/images/pictures/photo14.png)
+![photo3](assets/images/pictures/photo3.png)
+![photo4](assets/images/pictures/photo4.png)
+![photo5](assets/images/pictures/photo5.png)
+![photo6](assets/images/pictures/photo6.png)
+![photo7](assets/images/pictures/photo7.png)
+![photo8](assets/images/pictures/photo8.png)
+![photo12](assets/images/pictures/photo12.png)
+![photo9](assets/images/pictures/photo9.png)
+![photo10](assets/images/pictures/photo10.png)
+![photo11](assets/images/pictures/photo11.png)
+![photo13](assets/images/pictures/photo13.png)
+![photo15](assets/images/pictures/photo15.png)
 
 </div>
 </details>
