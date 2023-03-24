@@ -4,8 +4,8 @@ Tempest Shaders is a shader pack for Minecraft.
 It is made from Rinrin's mad sensibility.  
 Recommended for you, who want to experience a different scenery than usual <3
 
-<!-- Looking for the Java Edition version?
-See [@Rinrin0413/Tempest-Shaders_JE](https://github.com/Rinrin0413/Tempest-Shaders_JE) -->
+Looking for the Java Edition version?
+See [@Rinrin0413/Tempest-Shaders_JE](https://github.com/Rinrin0413/Tempest-Shaders_JE) (in development)
 
 ---
 
